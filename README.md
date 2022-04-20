@@ -1,1 +1,1 @@
-# alert-sample2
+![preview](public/alerts-preview.png)
